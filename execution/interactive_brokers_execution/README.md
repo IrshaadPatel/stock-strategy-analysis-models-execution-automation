@@ -1,6 +1,3 @@
-Certainly! Here's a README file for the provided Python code:
-
----
 
 # Interactive Brokers Auto-Trading Bot
 
