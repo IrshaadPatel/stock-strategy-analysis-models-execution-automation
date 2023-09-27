@@ -49,9 +49,6 @@ The code is structured as follows:
 
 4. The script will connect to your Interactive Brokers account, monitor TSLA prices, and place buy orders when conditions are met.
 
-## Disclaimer
-
-This script is provided as an educational example and should not be used for real trading without thorough testing and customization. Trading stocks and financial instruments involves risks, and you should carefully consider your investment strategy and consult with a financial advisor.
 
 ---
 
