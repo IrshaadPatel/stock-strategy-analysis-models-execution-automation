@@ -49,7 +49,3 @@ The code is structured as follows:
 
 4. The script will connect to your Interactive Brokers account, monitor TSLA prices, and place buy orders when conditions are met.
 
-
----
-
-Feel free to customize and expand this README as needed for your specific use case or audience. Additionally, make sure to implement the `get_real_time_price` and `get_opening_price` functions to fetch the required data for your trading strategy.
