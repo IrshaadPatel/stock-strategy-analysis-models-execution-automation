@@ -1,7 +1,7 @@
 
 # Interactive Brokers Auto-Trading Bot
 
-This Python script is an example of an auto-trading bot using the Interactive Brokers (IB) API. It monitors the real-time price of a specified stock (in this case, TSLA) and places a buy order when certain conditions are met. This README provides an overview of the code and how to use it.
+This Python script is an example of an auto-trading bot using the Interactive Brokers (IB) API. It monitors the real-time price of a specified stock (in this case, TSLA) and places a buy order when certain conditions are met. This README provides an overview of the code and how to use it. This is a very simplistic script just to demonstrate the execution framework. For better results, a custom model or signal based framework would be implemented to make better informed trades.
 
 ## Prerequisites
 
